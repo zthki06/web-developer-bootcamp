@@ -1,5 +1,5 @@
 # Overview
-Web Developer Bootcamp - HTML, CSS, JavaScript, React, Node, MongoDB
+Web Developer Bootcamp - HTML, CSS, Bootstrap, JavaScript, React, Node, MongoDB
 
 ## This repository includes
 - web applications using MEAN Stack
